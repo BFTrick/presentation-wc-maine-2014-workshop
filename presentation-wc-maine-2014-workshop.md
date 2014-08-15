@@ -3,7 +3,7 @@
 
 ### Patrick Rauland - @BFTrick
 
-### Slides: TODO
+###  http://speakinginbytes.com/2014/08/creating-your-online-store-woocommerce
 
 ---
 
@@ -363,7 +363,7 @@ Examples of Modern Gateways are:
 
 # Credit Cards - Modern VS Traditional
 
-Get a ton more information here: 
+Get a ton more information here:
 
 http://speakinginbytes.com/2014/08/merchant-account/
 
