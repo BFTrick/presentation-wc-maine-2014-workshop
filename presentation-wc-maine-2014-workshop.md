@@ -271,9 +271,9 @@ The **Sold Individually** setting under **Product Data -> Inventory -> Sold Indi
 
 # Variable Products
 
-The next big topic is variable products (think of a t-shirt with multiple sizes). There are a lot of ways to handle variable products so I want to cover it at the end after we discuss shipping and payment.
+The next big topic is variable products (think of a t-shirt with multiple sizes). Since there are so many options I'm going to cover it at the end.
 
-In case we don't get to hit here's an excellent video tutorial: TODO
+In case we don't get to it here's an excellent video tutorial: http://docs.woothemes.com/document/product-variations/
 
 ---
 
@@ -355,7 +355,7 @@ Examples of Modern Gateways are:
 
 * Stripe
 * Braintree
-* Amazon Simple Pay TODO
+* Amazon Simple Pay
 
 ---
 
@@ -363,7 +363,9 @@ Examples of Modern Gateways are:
 
 # Credit Cards - Modern VS Traditional
 
-TODO insert blog post link
+Get a ton more information here: 
+
+http://speakinginbytes.com/2014/08/merchant-account/
 
 ---
 
