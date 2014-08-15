@@ -554,6 +554,61 @@ You can also change it from the Order Detail page.
 
 ---
 
+# [fit] Taxes - aka:
+# [fit] Everyone's Favorite Part
+
+---
+
+## Taxes
+
+# Configuring Taxes
+
+Taxes can be configured in a ton of ways. In the US you're most likely to tax someone when they're in the same state as you.
+
+This can be configured under **WooCommerce -> Settings -> Taxes**.
+
+---
+
+![fit](assets/images/taxes/enable-taxes.png)
+
+---
+
+## Taxes
+
+# Configuring Taxes
+
+Now you need to set your standard rates.
+
+---
+
+![fit](assets/images/taxes/standard-rates.png)
+
+---
+
+## Taxes
+
+# Configuring Taxes
+
+Enter your state tax rate, and optionally add a tax rate for your city.
+
+Make sure to set different priorities. Only one line item per rate per priority will be matched.
+
+More info: http://docs.woothemes.com/document/setting-up-taxes-in-woocommerce/
+
+---
+
+![fit](assets/images/taxes/standard-rates-table.png)
+
+---
+
+## Taxes
+
+# Configuring Taxes
+
+ME - 5.5%
+
+---
+
 ![fit](assets/images/orders/order-detail.png)
 
 ---
